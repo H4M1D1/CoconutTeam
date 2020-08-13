@@ -1,3 +1,3 @@
 # CoconutTeam
 
-s
+Website for Engineering Outreach Design Week: 
